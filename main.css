@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(188, 243, 249);
+    background-color: black;
 }
 #container{
     margin-top: 150px;
